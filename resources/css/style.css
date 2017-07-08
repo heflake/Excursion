@@ -5,3 +5,12 @@
     color: white;
     text-align: center;
 }
+body {
+  background-color: black;
+  text-align: center;
+}
+.link {
+  color: Aquamarine;
+  font-size: 15px;
+  text-align: center
+}
